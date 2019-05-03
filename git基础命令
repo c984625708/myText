@@ -1,0 +1,10 @@
+首先克隆分支
+git clone https://github.com/c984625708/myText.git
+
+设置账号密码
+git config --global user.email "984625708@qq.com"
+git config --global user.name "your name"
+
+
+更新代码
+git pull
