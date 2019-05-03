@@ -5,6 +5,18 @@ git clone https://github.com/c984625708/myText.git
 git config --global user.email "984625708@qq.com"
 git config --global user.name "your name"
 
-
 更新代码
 git pull
+
+查看分支
+git status
+
+添加所有
+git add .
+
+提交所有
+git commit -m 'message'
+
+提交到主分支
+git push
+
